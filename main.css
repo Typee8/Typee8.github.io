@@ -109,7 +109,7 @@
 .ads__container {
   display: flex;
   flex-direction: column;
-  width: 70% !important;
+  width: 400px;
 }
 
 .ads__item {
